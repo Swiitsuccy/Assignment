@@ -1,0 +1,58 @@
+body {
+  background: #fff;
+}
+
+main {
+  margin-top: 15%;
+  margin-left: 20%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex {
+  height: 300px;
+  flex-basis: 10%;
+  min-width: 200px;
+  padding: 30px;
+}
+
+.card-1 {
+  background: rgb(81, 180, 134);
+}
+
+
+.card-2 {
+  background: rgb(172, 64, 172);
+}
+
+
+.card-3 {
+  background: rgb(158, 184, 67);
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 25%;
+  color: #fff;
+}
+
+small {
+  color: #fff;
+
+}
+.button {
+  margin-top: 30%;
+}
+.btn {
+  border: none;
+  background: #fff;
+  color: #191919;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 10px;
+}
+
